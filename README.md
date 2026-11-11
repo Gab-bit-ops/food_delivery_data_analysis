@@ -6,7 +6,8 @@ ________________________________________
 # Project Objective
 I'm working as a junior data analyst supporting a food-delivery operations team. The goal of Week 1 is simple: understand the dataset, find its data-quality issues, clean what needs cleaning (and explain why), and leave behind a reliable dataset that the later weeks can build on.
 This week is only about understanding and cleaning. Exploratory analysis, charts, business findings and the final report belong to the later project weeks.
-Dataset Source
+Dataset Source: https://drive.google.com/file/d/1O9WYS92iJPZoC6skyYlpcdP8Kre7eW6z/view?usp=sharing
+
 •	Dataset: Food Delivery Dataset (Food_delivery_Dataset.csv)
 •	Source: 
 •	Size: 45,584 rows and 20 columns
